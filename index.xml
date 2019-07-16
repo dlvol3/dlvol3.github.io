@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>譬如朝露</title>
+    <link>http://yuezhang.me/</link>
+    <description>Recent content on 譬如朝露</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2019 16:58:41 +0200</lastBuildDate>
+    
+	<atom:link href="http://yuezhang.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://yuezhang.me/about/</link>
+      <pubDate>Tue, 16 Jul 2019 16:58:41 +0200</pubDate>
+      
+      <guid>http://yuezhang.me/about/</guid>
+      <description>这是Yue Zhang的个人主页。
+目前我正在欧洲某村默默摸索着如何拿到毕业证。
+人至中年，理想也变得相当单薄无聊：多征服几个前半辈子攒下来的坏毛病就行。
+我喜欢用编程解决力所能及的障碍，从优化机器学习算法，到给自己找一个毕业后的合适下家。
+最不喜欢给我的工作电脑安排不可抵抗重启的IT部门。
+胸无甚大志，但求心无愧。</description>
+    </item>
+    
+    <item>
+      <title>千里之行，始于足下</title>
+      <link>http://yuezhang.me/posts/20190716_1/</link>
+      <pubDate>Tue, 16 Jul 2019 15:19:58 +0200</pubDate>
+      
+      <guid>http://yuezhang.me/posts/20190716_1/</guid>
+      <description>迈出第一步，拨开满头雾 哒噔！
+个人博客终于在纠结了半天之后选择了Hugo + Github pages的方案，并且顺利上线。
+计划是向yihui大佬学习，中英文内容分开记录，但目前就先混在一起，回头东西多了再分子域名就好了。
+对自己唯一的希望：万一哪天要抛弃我完美的yuezhang.me域名上的主页，别忘了续费域名就好。
+Peace!</description>
+    </item>
+    
+  </channel>
+</rss>

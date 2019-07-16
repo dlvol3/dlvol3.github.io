@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂记 on 譬如朝露</title>
+    <link>http://yuezhang.me/tags/%E6%9D%82%E8%AE%B0/</link>
+    <description>Recent content in 杂记 on 譬如朝露</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jul 2019 15:19:58 +0200</lastBuildDate>
+    
+	<atom:link href="http://yuezhang.me/tags/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>千里之行，始于足下</title>
+      <link>http://yuezhang.me/posts/20190716_1/</link>
+      <pubDate>Tue, 16 Jul 2019 15:19:58 +0200</pubDate>
+      
+      <guid>http://yuezhang.me/posts/20190716_1/</guid>
+      <description>迈出第一步，拨开满头雾 哒噔！
+个人博客终于在纠结了半天之后选择了Hugo + Github pages的方案，并且顺利上线。
+计划是向yihui大佬学习，中英文内容分开记录，但目前就先混在一起，回头东西多了再分子域名就好了。
+对自己唯一的希望：万一哪天要抛弃我完美的yuezhang.me域名上的主页，别忘了续费域名就好。
+Peace!</description>
+    </item>
+    
+  </channel>
+</rss>
