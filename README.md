@@ -1,1 +1,1 @@
-Personal website project
+Personal website project using HUGO (https://gohugo.io/)
